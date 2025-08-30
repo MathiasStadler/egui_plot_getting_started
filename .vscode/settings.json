@@ -1,6 +1,7 @@
 {
     "cSpell.words": [
         "rustup",
+        "serde",
         "trapapa"
     ],
     "cSpell.customDictionaries": {

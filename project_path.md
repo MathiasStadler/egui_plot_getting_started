@@ -49,7 +49,7 @@ cd && mkdir ${project_name} && cd $_
 >- Another desc [1](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
 <!-- -->
 ## Create a new rust based project inside the previously generated folder and update the rust binary's system wide to the last stable version
-<!-- -->
+<!-- keep the format -->
 ```bash <!-- markdownlint-disable-line code-block-style -->
 touch README.md \
 && ln -s README.md README \
@@ -70,7 +70,8 @@ touch README.md \
 
 ```
 <!-- keep the format -->
-<!-- keep the format -->
+## Install crates
+
 ## Project path see here [![alt text][1]](./project_path.md)
 <!-- keep the format -->
 > NOTE:

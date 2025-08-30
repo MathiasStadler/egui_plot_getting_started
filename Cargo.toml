@@ -4,5 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+# egui_plot = "0.33.0"
+egui_plot = { version = "0.33", features = ["serde"] }
 rustfmt = "0.10.0"
 sccache = "0.10.0"
+
