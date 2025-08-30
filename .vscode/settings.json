@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "rustup",
+        "trapapa"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:egui_plot_getting_started}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
